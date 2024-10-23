@@ -7,4 +7,4 @@ layout: home
 
 This is my homepage, right?
 
-{{tryhackme_badge}}
+{{ site.tryhackme_badge }}
